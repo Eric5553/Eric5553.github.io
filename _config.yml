@@ -1,0 +1,27 @@
+markdown: kramdown
+highlighter: pygments
+permalink: /posts/:title.html
+excerpt_separator: "<!-- more -->"
+
+github: Eric5553
+author: "Eric Wu"
+email: 492960551@qq.com
+name: "Eric's Home"
+url: http://eric5553.github.io
+domain: eric5553.github.io
+all_categories: [
+["program", "软件编程","/posts/program.html"],
+["read", "读书笔记","/posts/read.html"], 
+["life", "闲情偶寄","/posts/life.html"],
+]
+
+paginate: 8
+paginate_path: "posts/page:num"
+timezone: Asia/Shanghai
+
+collections:
+  docs:
+    output: true
+
+gems:
+ - jekyll-paginate
