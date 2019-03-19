@@ -23,4 +23,4 @@ tags: [闲情偶寄]
 
 我是牧师，猥琐在后排加血
 
-![life-pic-001](../assets/duihua-pic.jpg)
+![duihua-pic](../assets/duihua-pic.jpg)

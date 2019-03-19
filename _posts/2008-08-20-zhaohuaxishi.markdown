@@ -21,4 +21,4 @@ To be continue...
 
 日志中照片不太清楚，请到相册中查看
 
-![life-pic-001](../assets/zhaohuaxishi-pic.jpg)
+![zhaohuaxishi-pic](../assets/zhaohuaxishi-pic.jpg)
